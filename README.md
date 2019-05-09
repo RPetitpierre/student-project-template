@@ -4,7 +4,7 @@ Please structure your repository as follows:
 
 - a folder **code** where you put... your code and your resources
 - a folder **report** where you put... your report
-- a **README**, with the following information
+- a **README**, with the following information:
 
 ### Introduction
 _brief introduction of the project_
