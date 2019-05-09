@@ -19,8 +19,8 @@ _illustration of results_
 - _usage: how to run your code_
 
 ### License
-_We encourage you to choose an open license, e.g. AGPL, GPL, LGPL or MIT_
-_Example: 
+_We encourage you to choose an open license, e.g. AGPL, GPL, LGPL or MIT_    
+_Example:_         
 *project_name* - Jean Dupont    
 Copyright (c) Year DHLAB, EPFL    
 This program is licensed under the terms of the [license]    
