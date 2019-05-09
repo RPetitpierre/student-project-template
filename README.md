@@ -1,4 +1,4 @@
-# student-project-template
+# Student Project Template
 
 Please structure your repository as follows:
 
@@ -21,9 +21,9 @@ _illustration of results_
 ### License
 _We encourage you to choose an open license, e.g. AGPL, GPL, LGPL or MIT_    
 _Example:_         
-*project_name* - Jean Dupont    
-Copyright (c) Year DHLAB, EPFL    
-This program is licensed under the terms of the [license]    
+**project_name** - Jean Dupont    
+Copyright (c) Year EPFL    
+This program is licensed under the terms of the [license].   
 
 
 
