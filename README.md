@@ -1,7 +1,7 @@
 # Student Project Template
 
 Please name your repository as follows:
-- always lower case
+- use lower case
 - use hyphens to separate tokens
 - if related to a larger project, start with the name of this project, followed by the name of your project (e.g. 'impresso-image-classification')
 - in case of doubt ask your supervisors
