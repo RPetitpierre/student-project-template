@@ -12,6 +12,12 @@ Please structure your repository as follows:
 - a folder **report** where you put... your report
 - a **README**, with the following information:
 
+### Basic information
+
+- name of student
+- names of supervisors
+- academic year
+
 ### Introduction
 _brief introduction of the project_
 
