@@ -37,6 +37,11 @@ _Example:_
 Copyright (c) Year EPFL    
 This program is licensed under the terms of the [license].   
 
+## Student project report
+
+You can use the unofficial EPFL Latex template (removing all what's not needed):
+https://github.com/glederrey/EPFL_thesis_template 
+
 
 
 
