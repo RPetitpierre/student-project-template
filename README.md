@@ -39,8 +39,11 @@ This program is licensed under the terms of the [license].
 
 ## Student project report
 
-You can use the unofficial EPFL Latex template (removing all what's not needed):
+You can use:
+- the unofficial EPFL Latex template (removing all what's not needed):
 https://github.com/glederrey/EPFL_thesis_template 
+- the lightened version of this template in this repo (semester-project-latex-template, done by a former student)
+- any template of your choice
 
 
 
